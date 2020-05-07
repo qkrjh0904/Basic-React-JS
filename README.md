@@ -18,3 +18,9 @@ npm은 NodeJS 설치하면 자동으로 함께 설치 된다.
 ```
 > npm install npx -g
 ```
+
+npx 설치 후 버전 확인
+```
+> npx -v
+```
+
