@@ -1,1 +1,3 @@
-# Movie App with react 2020.05
+# Movie App 2020.05
+
+React JS 기초 코스!!
